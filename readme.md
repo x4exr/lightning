@@ -1,8 +1,6 @@
 # Processor
 Execute instructions, manage memory, run programs. Provides hardware, compiler, and assembler.
 
-![image](https://github.com/arrseq/lightning/assets/163682431/5aff3853-19ed-4c61-be24-29653e934091)
-
 # Packages
 | Name         | Description                                                                                                                                           |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
