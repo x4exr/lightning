@@ -2,4 +2,10 @@
 name = "atln-processor"
 
 [workspace]
-members=["emulator/src-tauri"]
+members=[]
+
+[dependencies]
+num-traits = "0.2.19"
+num_enum = "0.7.2"
+strum = "0.26.3"
+strum_macros = "0.26.4"
